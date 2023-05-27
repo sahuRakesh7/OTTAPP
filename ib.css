@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    font-weight: bold;
+}
+li{
+    font-weight: bold;
+}
+.container-fluid{
+    background-color: black;
+}
+img{
+    width:180px ;
+}
+.col:hover{
+    transform: scale(1.1);
+}
+.col{
+    transition: all 0.4s;
+}
+.input{
+    width: 500px;
+}
